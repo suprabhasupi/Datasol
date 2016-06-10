@@ -1,0 +1,125 @@
+span.home_nav {
+    padding: 0px 1.5em;
+}
+
+span.home_nav a {
+    color: white;
+}
+
+span.home_nav a:hover {
+    color: gray;
+    text-decoration: none;
+}
+
+span.home_nav a:focus {
+    color: gray;
+    text-decoration: none;
+}
+
+.home_nav_hdr {
+    margin-top: 1em;
+}
+
+.box1 {
+    width: 196px;
+    height: 196px;
+    border: 1px solid transparent;
+    /*background-color: blue;*/
+}
+
+.box2 {
+    width: 392px;
+    height: 392px;
+    /*border: 1px solid transparent;*/
+  
+}
+
+.scnd_col_hom {
+    position: relative;
+    left: 1.5em;
+}
+
+.frst_col_hom {
+    position: relative;
+    left: 2.57em;
+}
+
+.thrd_col_hom {
+    position: relative;
+    right: .65em;
+}
+
+.forth_col_hom {
+    position: relative;
+    left: -1.7em;
+}
+
+.box1_1 {
+    background-color: #300265;
+}
+
+
+/*-----------------first column------------*/
+
+p.box1_1_cont {
+    color: white;
+    margin-top: 5em;
+}
+
+.box1_3 {
+    background-image: url('../images/home/crcl.jpg');
+        position: relative;
+    top: -1px;
+}
+
+p.box1_2_cont {
+    font-size: 27px;
+}
+
+span.box1_2_cont_inner {
+    color: white;
+}
+
+
+/*-----------second column----------*/
+
+.box2_1 {
+    background-color: #d5e0eb;
+    padding: 1.3em;
+}
+
+p.box2_1_cont {
+    font-size: 24px;
+    color: #949494;
+}
+
+.box2_3 {
+    background-image: url('../images/home/plane.jpg');
+      background-repeat: no-repeat;
+          position: relative;
+    top: -1px;
+}
+
+.box3_1 {
+    background-image: url('../images/home/men.jpg');
+    background-repeat: no-repeat;
+}
+
+
+/*--------fourth column---------------*/
+
+.box4_1 {
+    width: 390px;
+    height: 193px;
+    border: 1px solid transparent;
+}
+
+.box4_2 {
+    background-image: url('../images/home/phone.jpg');
+}
+
+
+.element_hedr{
+	    position: relative;
+    top: 2em;
+}
