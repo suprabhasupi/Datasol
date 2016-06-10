@@ -63,7 +63,12 @@ span.home_nav a:focus {
 
 p.box1_1_cont {
     color: white;
-    margin-top: 5em;
+    margin-top: 2em;
+    font-size: 2em;
+}
+p.box1_1_cont_inner{
+    color: black;
+    font-size: 12px;
 }
 
 .box1_3 {
@@ -73,7 +78,8 @@ p.box1_1_cont {
 }
 
 p.box1_2_cont {
-    font-size: 27px;
+    font-size: 29px;
+    color: #aaaaaa;
 }
 
 span.box1_2_cont_inner {
@@ -105,7 +111,36 @@ p.box2_1_cont {
     background-repeat: no-repeat;
 }
 
+p.box2_2_cont{
+    color: white;
+    font-size: 18px;
+    position: relative;
+    top: 1.5em;
+}
 
+p.box3_2_cont_inner{
+    color: white;
+    font-size: 24px;
+    margin-top: 2em;
+}
+
+.img_box_home{
+    position: relative;
+    top: 12px;
+}
+
+span.box2_1_cont1{
+        color: black;
+    font-size: 24px;
+}
+
+p.box2_1_cont1{
+    font-size: 14px;
+    color: black;
+    position: relative;
+    left: 4.9em;
+    top: -1em;
+}
 /*--------fourth column---------------*/
 
 .box4_1 {
@@ -122,4 +157,54 @@ p.box2_1_cont {
 .element_hedr{
 	    position: relative;
     top: 2em;
+}
+p.box3_2_cont{
+    color: white;
+        padding-left: 1.5em;
+    position: relative;
+    top: 3.8em;
+}
+p.box4_1_cont{
+    color: white;
+    margin-top: 2em;
+}
+
+.box4_1_cont_inner{
+    color: white;
+    font-size: 24px;
+}
+
+
+/*---------------------------------------------------------PRODUCT--------------------------------------------------*/
+
+.hdr_product{
+        margin-top: 10em;
+}
+
+.dtasol_product{
+   font-size: 1.4em;
+}
+
+p.hdr_product_cont1{
+    font-size: 14px;
+    /*color: #d5e0eb;*/
+}
+p.hdr_product_cont2{
+    font-size: 60px;
+    /*color: #d5e0eb;*/
+}
+
+.hdr_product1{
+        margin-top: 7.65em;
+}
+
+p.hdr_product_inner1{
+    font-size: 18px;
+    margin-top: 2em;
+}
+
+.small_box_product{
+    width: 195px;
+    height: 195px;
+    border:1px solid black;
 }

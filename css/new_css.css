@@ -45,3 +45,27 @@
 .lato_litittalic{
     font-family:lato_litittalic;
 }
+
+@font-face {
+        font-family:source_regular;
+        src: url(font/SourceSansPro-Regular.otf);
+}
+.source_regular{
+    font-family:source_regular;
+}
+
+@font-face {
+        font-family:source_bold;
+        src: url(font/SourceSansPro-Bold.otf);
+}
+.source_bold{
+    font-family:source_bold;
+}
+
+@font-face {
+        font-family:source_light;
+        src: url(font/SourceSansPro-Light.otf);
+}
+.source_light{
+    font-family:source_light;
+}
