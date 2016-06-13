@@ -155,7 +155,7 @@ p.box2_1_cont1{
 
 
 .element_hedr{
-	    position: relative;
+        position: relative;
     top: 2em;
 }
 p.box3_2_cont{
@@ -200,11 +200,87 @@ p.hdr_product_cont2{
 
 p.hdr_product_inner1{
     font-size: 18px;
-    margin-top: 2em;
+    margin-top: 9%;
 }
 
 .small_box_product{
-    width: 195px;
-    height: 195px;
-    border:1px solid black;
+    width: 184px;
+    height: 184px;
+    border:1px solid none;
+    /* margin-left: -13%; */
+}
+
+.pilt{
+    margin-top: .9%;
+    margin-left: -1.8%;
+}
+
+.scnd_col_prodct{
+    width: 382px;
+    height: 373px;
+    border:1px solid none;
+    margin-top: -46.5%;
+    background-color: rgba(246, 246, 246, 0.8);
+    margin-left: 7%;
+}
+
+.frst_col_prodct{
+    position: relative;
+    left: 3.9em;
+}
+
+.scnd2_col_product{
+    width: 382px;
+    height: 187px;
+    border:1px solid none;
+    position: relative;
+    left: 2em;
+}
+
+p.scnd_col_cont_product{
+    font-size: 24px;
+    color:#686868;
+    padding: 1em;
+}
+
+.third_col_product{
+
+margin-left: -1.8%;
+
+position: relative;
+
+left: 5px;
+}
+
+.fourth_col_product{
+    
+margin-left: -2.3%;
+    
+position: relative;
+    
+left: 5px;
+}
+
+.fifth_col_product{
+    margin-left: -2%;
+}
+
+p.scnd1_col_cont_product{
+    font-size: 18px;
+    color: #686868;
+        padding: 1em;
+    margin-top: 2.2em;
+}
+
+
+
+/*----------------------------------service--------------------------------------------------------------*/
+
+.hdr_service_cont2{
+    font-size: 60px;
+}
+
+span.icon1_content1, span.icon1_content2{
+    font-size: 14px;
+
 }

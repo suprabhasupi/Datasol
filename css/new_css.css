@@ -69,3 +69,11 @@
 .source_light{
     font-family:source_light;
 }
+
+@font-face {
+        font-family:source_extra_light;
+        src: url(font/SourceSansPro-ExtraLight.otf);
+}
+.source_extra_light{
+    font-family:source_extra_light;
+}
